@@ -1,0 +1,17 @@
+baseURL = "https://cloudayolla.github.io/"
+languageCode = "en-us"
+title = "AWS Turkey Builders Day"
+theme = "hugo-theme-learn"
+
+[params]
+themeVariant = "mine"
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-bookmark'></i> Amazon Free Tier"
+url = "https://aws.amazon.com/free/"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-users'></i> Authors"
+url = "/authors.md"
+weight = 20
